@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berhan Türkü Ay</h1>
 <h3 align="center">Eager to develop myself in the field of Artificial Intelligence</h3>
 
-- 🌱 I’m currently learning **CNN Based Autoencoder**
+- 🌱 I’m currently learning **Video Vision Transformer**
 
 - 📫 How to reach me **berhanay01@gmail.com**
 
